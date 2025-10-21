@@ -31,10 +31,6 @@ An encoder–decoder with **skip connections**, enabling sharper and more accura
 
 ## 📊 Results
 
-| Input (Occluded) | Autoencoder Output | U-Net Output |
-|------------------|--------------------|---------------|
-| 🖼️ | 🧩 | ✅ |
-
 U-Net produces sharper, clearer reconstructions, while Autoencoder captures basic structure effectively.
 
 ---
